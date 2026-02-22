@@ -1,10 +1,10 @@
-# AI Red Team Agent Framework
+# ai-red-team-agent-framework
 
-Automate adversarial testing against models, APIs, and workflows.
+## Detailed Description
 
 ## Vertical
 
-agent
+## Problem Statement
 
 ## Production MVP Deliverables
 
